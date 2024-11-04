@@ -1,0 +1,11 @@
+cat,type,Student_Name,Sub1,Sub2,Sub3,Sub4,Sub5,Sub6
+Med,a,Student1,25,10,10,15,15,16
+Med,b,Student2,23,15,,15,15,17
+Med,c,Student3,21,,12,16,15,19
+Med,d,Student4,22,,15,12,18,15
+Med,e,Student5,21,15,16,16,17,
+Aveg,a,Student1,20,,17,18,16,17
+Aveg,b,Student2,20,19,,13,17,19
+Aveg,c,Student3,22,20,,17,18,20
+Aveg,d,Student4,21,22,,18,16,23
+Aveg,e,Student5,15,20,15,19,17,

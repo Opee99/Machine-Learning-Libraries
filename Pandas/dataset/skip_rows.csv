@@ -1,0 +1,14 @@
+Students Marks list
+cat, type, Student_Name, Sub1, Sub2, Sub3, Sub4, Sub5, Sub6
+These are the cat1 type studenst marks list
+cat1, a, Student1, 25, 10, 10, 15, 15, 16
+cat1, b, Student2, 23, 15, 15, 15, 15, 17
+cat1, c, Student3, 21, 11, 12, 16, 15, 19
+cat1, d, Student4, 22, 12, 15, 12, 18, 15
+cat1, e, Student5, 21, 15, 16, 16, 17, 18
+These are the cat2 type studenst marks list
+cat2, a, Student1, 20, 18, 17, 18, 16, 17
+cat2, b, Student2, 20, 19, 18, 13, 17, 19
+cat2, c, Student3, 22, 20, 15, 17, 18, 20
+cat2, d, Student4, 21, 22, 14, 18, 16, 23
+cat2, e, Student5, 15, 20, 15, 19, 17, 25

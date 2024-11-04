@@ -1,0 +1,11 @@
+cat,type,student_name,sub1,sub2,sub3,sub4,sub5,sub6
+cat1,ad,Student1,25,10,10,15,15,16
+cat1,cf,Student2,23,15,15,15,15,17
+cat1,fg,Student3,21,12,12,16,15,19
+cat1,eh,Student4,22,15,15,12,18,15
+cat1,gj,Student5,21,15,16,16,17,20
+cat2,gh,Student1,20,15,17,18,16,17
+cat2,ll,Student2,20,19,20,13,17,19
+cat2,gj,Student3,22,20,20,17,18,20
+cat2,nd,Student4,21,22,16,18,16,23
+cat2,sy,Student5,15,20,15,19,17,20
